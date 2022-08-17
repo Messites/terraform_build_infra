@@ -1,0 +1,19 @@
+Here are the steps you take to configure your infrastructure
+
+  1. Write configuration 
+      $ mkdir learn-terraform-aws-instance
+      $ cd learn-terraform-aws-instance
+      $ touch main.tf => use the code from the attached "main.tf" and content to the file 
+      
+  2. Enter the following commands: 
+      $ terraform init =>  to initialize the directory
+      $ terraform fmt && terraform validate => to format and validate the configuration 
+      $ terraform apply => to create the infrastructure
+      $ terraform show => to verify 
+      $ terraform state list => to display a list of resources in your current project
+      
+      
+  Congrats. You have provision an infrastructure on AWS using Terraform! 
+      
+      
+      
