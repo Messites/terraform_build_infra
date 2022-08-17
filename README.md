@@ -6,3 +6,4 @@ Prerequisites:
   2. Make sure to have an AWS account and associated credentials, which will allow to create the resources you need on AWS
   
   
+Next, go to the Config section! 
